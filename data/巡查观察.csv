@@ -1,0 +1,4 @@
+﻿observation_id,component_id,date,condition,photo_ref
+O1,CP1,2026-04,裂纹,IMG1
+O2,CP1,2026-05,范围扩大,IMG2
+O3,CP2,2026-04,历史记录：已替换,IMG3

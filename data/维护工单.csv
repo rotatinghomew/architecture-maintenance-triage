@@ -1,0 +1,4 @@
+﻿work_id,component_id,observation_id,status,assignee
+W1,CP1,O1,已安排,甲组
+W2,CP1,O2,待复核,乙组
+W3,CP2,O3,待关闭,甲组
